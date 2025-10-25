@@ -39,8 +39,8 @@ I love building projects that combine **machine learning**, **AI**, and **real-w
 ### 📊 GitHub Stats
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=shivaganesh7727&show_icons=true&theme=radical" alt="GitHub Stats" height="165"/>
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=shivaganesh7727&theme=radical" alt="GitHub Streak" height="165"/>
+  <img src="https://github-readme-stats.vercel.app/api?username=Shivaganesh7&show_icons=true&theme=radical" alt="GitHub Stats" height="165"/>
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Shivaganesh7&theme=radical" alt="GitHub Streak" height="165"/>
 </p>
 
 ---
