@@ -101,4 +101,10 @@ Presented at **IEEE International Conference (ICICT-2026)**
 
 ---
 
+## 📫 Connect With Me
+📧 Email: shivaganesh7727@gmail.com  
+💼 LinkedIn: https://www.linkedin.com/in/shiva-ganesh-gouroju-584a0a299/  
+
+---
+
 ⭐️ _“Code. Learn. Innovate. Repeat.”_
