@@ -66,7 +66,7 @@ I love building projects that combine **machine learning**, **AI**, and **real-w
 
 ### 📄 Research:
 Presented at **IEEE International Conference (ICICT-2026)**  
-*(Paper accepted and presented; indexing in progress)*  
+*(Paper accepted and presented)*  
 
 ---
 
