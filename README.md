@@ -1,12 +1,12 @@
 # 👋 Hi, I'm Shiva Ganesh Gouroju
 
 🎯 A passionate **Computer Science & Engineering (AI & ML)** student with a strong foundation in **Python**, **C**, and **Java**.  
-I love building projects that combine **machine learning**, **AI**, and **real-world problem solving** — from image detection to intelligent assistants.
+I love building projects that combine **machine learning**, **AI**, and **real-world problem solving** — from intelligent systems to data-driven solutions.
 
 ---
 
 ### 💡 What I'm Working On
-- 🤖 Building projects in **Machine Learning** & **Computer Vision**
+- 🤖 Building projects in **Machine Learning**, **Reinforcement Learning**, and **Computer Vision**
 - 🧩 Exploring **LLMs (Gemini, ChatGPT)** for AI-driven automation
 - 📈 Developing predictive systems for my **Personal Fitness Tracker Project**
 - 🚀 Expanding my knowledge in **Data Science**, **XGBoost**, and **Streamlit**
@@ -19,7 +19,7 @@ I love building projects that combine **machine learning**, **AI**, and **real-w
 `Python` • `Java` • `C` • `C++` • `SQL`
 
 **Machine Learning & AI:**  
-`Scikit-learn` • `Pandas` • `NumPy` • `Matplotlib` • `OpenCV` • `MediaPipe`
+`Scikit-learn` • `Pandas` • `NumPy` • `Matplotlib` • `OpenCV` • `MediaPipe` • `SHAP` • `PyTorch`
 
 **Web & Development Tools:**  
 `HTML5` • `CSS3` • `Git` • `GitHub` • `Google Colab` • `VS Code`
@@ -45,13 +45,52 @@ I love building projects that combine **machine learning**, **AI**, and **real-w
 
 ---
 
-### 🚀 Featured Projects
+# 🚀 Featured Projects
 
-#### 🧩 [Contour Line Detection Using OpenCV](#)
-> Detects and visualizes object boundaries using OpenCV functions like `cv2.findContours()` and `cv2.drawContours()` for precise edge detection.
+---
 
-#### 🤟 [American Sign Language Detection](#)
-> Uses **MediaPipe** and **ML models** to classify real-time ASL gestures, promoting accessibility and inclusive communication.
+## 🧠 Intelligent SQL-ML Engine 
+🔗 https://github.com/Shivaganesh7/Intelligent-SQL-ML-Engine  
+
+> A research-driven system that enables **machine learning directly inside SQL queries** using a custom `PREDICT()` operator.
+
+### 🔹 Key Highlights:
+- Converted **Decision Trees → SQL CASE statements** for in-database inference  
+- Integrated **Reinforcement Learning (PER-DQN)** for cost optimization  
+- Applied **Explainable AI (SHAP)** for model interpretability  
+- Built a **Streamlit dashboard** for real-time analytics  
+
+### 📊 Results:
+- ~98% prediction accuracy (Gradient Boosting benchmark)  
+- ~24% reduction in maintenance cost  
+
+### 📄 Research:
+Presented at **IEEE International Conference (ICICT-2026)**  
+*(Paper accepted and presented; indexing in progress)*  
+
+---
+
+## 🤟 American Sign Language Detection
+🔗 (Add your repo link)
+
+> Real-time gesture recognition system using **MediaPipe** and machine learning models to classify ASL hand signs.
+
+### 🔹 Features:
+- Hand landmark detection using MediaPipe  
+- Real-time classification of gestures  
+- Improves accessibility and inclusive communication  
+
+---
+
+## 🧩 Contour Line Detection Using OpenCV
+🔗 (Add your repo link)
+
+> Detects and visualizes object boundaries using OpenCV techniques.
+
+### 🔹 Features:
+- Uses `cv2.findContours()` and `cv2.drawContours()`  
+- Accurate edge detection and object boundary mapping  
+- Useful for image processing and computer vision tasks  
 
 ---
 
@@ -62,5 +101,4 @@ I love building projects that combine **machine learning**, **AI**, and **real-w
 
 ---
 
-⭐️ _“Code. Learn. Innovate. Repeat.”_  
-
+⭐️ _“Code. Learn. Innovate. Repeat.”_
