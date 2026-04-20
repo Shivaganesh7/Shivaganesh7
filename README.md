@@ -49,7 +49,7 @@ I love building projects that combine **machine learning**, **AI**, and **real-w
 
 ---
 
-## 🧠 Intelligent SQL-ML Engine 
+## 🧠 Intelligent SQL-ML AI Engine 
 🔗 https://github.com/Shivaganesh7/Intelligent-SQL-ML-Engine  
 
 > A research-driven system that enables **machine learning directly inside SQL queries** using a custom `PREDICT()` operator.
